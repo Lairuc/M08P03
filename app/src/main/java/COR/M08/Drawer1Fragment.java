@@ -62,3 +62,4 @@ public class Drawer1Fragment extends Fragment {
         return inflater.inflate(R.layout.fragment_drawer1, container, false);
     }
 }
+
